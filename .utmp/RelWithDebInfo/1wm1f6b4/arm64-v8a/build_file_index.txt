@@ -1,0 +1,2 @@
+/Users/korrrdim/Unity Projects/Teleport/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/Users/korrrdim/Unity Projects/Teleport/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt
